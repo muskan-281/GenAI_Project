@@ -1,1 +1,1 @@
-# Gen_AI-Project-
+# GenAI_Project
